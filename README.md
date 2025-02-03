@@ -58,28 +58,33 @@ TaxEaseAI is a user-friendly AI assistant designed to demystify and simplify US 
 * What is Section 951(a) inclusion?
 * What are 'Standard deduction or itemized deductions' from Schedule A?
 
-## **ScreenShots**
+## **Setup** ⚙️
 
-Agent Preview
-![image](https://github.com/user-attachments/assets/977d4b98-9235-49d6-95e7-b228acc59537)
+### **Diagflow CX Side Panel**
 
-![image](https://github.com/user-attachments/assets/f17c6198-3be2-4926-b698-e976582af58d)
-
-Diagflow CX Side Panel
-![image](https://github.com/user-attachments/assets/1a72dfd1-5c7f-4bcf-8114-e1adbdbb3c94)
-
-![image](https://github.com/user-attachments/assets/b37fac4b-b278-42c7-874b-5bedf35cdbe4)
-
-Website Deployment
-![image](https://github.com/user-attachments/assets/54fce5de-1196-4abd-ba98-7a7093fe54f1)
-![image](https://github.com/user-attachments/assets/5dc627c7-f0ea-43aa-a83a-23317031f2cd)
-![image](https://github.com/user-attachments/assets/4d5ebb09-f289-4219-a950-f5c1908494ec)
-![image](https://github.com/user-attachments/assets/a7b92f1f-ebf9-4bd3-a977-de2033ab6e58)
-
-Zoomed out
-![image](https://github.com/user-attachments/assets/4d7c32a7-4789-4d5e-9881-552e78e3a3e1)
-
-
+```html
+<link rel="stylesheet" href="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/themes/df-messenger-default.css">
+<script src="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js"></script>
+<df-messenger location="northamerica-northeast1" project-id="taxeaseai" agent-id="8fd37925-c76a-47e1-b574-25802ef23665" language-code="en" max-query-length="-1">
+  <df-messenger-chat chat-title="TaxEaseAI Assistant"></df-messenger-chat>
+</df-messenger>
+<style>
+  df-messenger {
+    z-index: 999;
+    position: fixed;
+    --df-messenger-font-family: Google Sans;
+    --df-messenger-chat-background: #1d1d1d;
+    --df-messenger-message-user-background: #e9e9b1;
+    --df-messenger-message-bot-background: #3c6255;
+    --df-messenger-message-bot-font-color: #fff;
+    --df-messenger-message-user-font-color: #000000;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    width: 350px;
+  }
+</style>
+```
 
 ## **Repository Link 🔗**
 
