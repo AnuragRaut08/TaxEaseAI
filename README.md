@@ -1,4 +1,4 @@
-# **TaxMateAI : Vertex AI Agent 🤖**
+# **TaxEaseAI : Vertex AI Agent 🤖**
 
 ![TaxMateAI Banner](assets/banner.png)
 
@@ -10,7 +10,7 @@ Built on the powerful Vertex AI platform, TaxMateAI utilizes a comprehensive kno
 
 ## **Inspiration ✨**
 
-Our inspiration for **TaxMateAI** stemmed from a deep empathy for the millions of Americans who dread the annual ritual of tax filing. Emmy-winning journalist Johnny Harris eloquently captured this sentiment in his video essay, 
+Our inspiration for **TaxEaseAI** stemmed from a deep empathy for the millions of Americans who dread the annual ritual of tax filing. Emmy-winning journalist Johnny Harris eloquently captured this sentiment in his video essay, 
  "[*Why Americans Pay to Do Their Taxes ?* ](https://www.youtube.com/watch?v=ZhV4Z76mXrI)". Harris exposed the absurdity of a system that forces its citizens to navigate a labyrinth of complex forms and expensive software, all while simpler, government-run solutions exist in numerous other countries. 
 
 We've all felt the frustration – the hours wasted deciphering cryptic forms, the fear of missing a crucial deduction, the sinking feeling when you realize you need to shell out for expensive tax software. It's a system seemingly designed to confuse and intimidate, turning a simple civic duty into a stressful, time-consuming ordeal. What's even more infuriating is that it doesn't have to be this way. As Harris pointed out, this stark contrast highlights the absurdity of the American system, where powerful corporations profit from a process that should be a simple service for all citizens. We were tired of seeing hardworking Americans taken advantage of, their time and money siphoned away by a system rigged against them. We knew there had to be a better way. 
@@ -38,7 +38,7 @@ TaxMateAI is a user-friendly AI assistant designed to demystify and simplify US 
 ## **Accomplishments that we're proud of 🎉**
 
 * **Functional AI Tax Assistant:** We built a working prototype that showcases the power of AI to simplify taxes.
-* **User-Centric Design:** TaxMateAI is designed with you in mind, focusing on making the experience as smooth and painless as possible.
+* **User-Centric Design:** TaxEaseAI is designed with you in mind, focusing on making the experience as smooth and painless as possible.
 * **Equity in Action:** We believe TaxMateAI has the potential to make tax filing less intimidating and more accessible for all, regardless of income or technical expertise. 
 
 ## **What we learned  📚**
@@ -47,7 +47,7 @@ TaxMateAI is a user-friendly AI assistant designed to demystify and simplify US 
 * **User-First, Always:** When dealing with complex topics like taxes, simple and clear design is paramount. 
 * **AI for Good:** This project reinforced our belief in the power of AI to create positive change and address real-world problems.
 
-## **What's next for TaxMateAI 🚀**
+## **What's next for TaxEaseAI 🚀**
 
 * **Expand Functionality:** We envision integrating with financial platforms, enabling automatic form population from user data, and offering advanced features for more complex tax scenarios.
 * **Testing & Refinement:** We'll be conducting thorough testing with real users to gather feedback and make TaxMateAI even more accurate and user-friendly.
@@ -55,5 +55,5 @@ TaxMateAI is a user-friendly AI assistant designed to demystify and simplify US 
 
 ## **Repository Link 🔗**
 
-[GitHub Repository](https://github.com/AnuragRaut08/TaxMateAI.git)
+[GitHub Repository](https://github.com/AnuragRaut08/TaxEaseAI.git)
 
